@@ -1,0 +1,48 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Segunda {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        ArrayList<String> descriptografando = new ArrayList<String>();
+        String DC[][] = new String[6][6];
+        preencherDescriptografando(DC);
+
+        System.out.println("Digite a quantidade de casas deslocadas:");
+        String casasdeslocadas = sc.nextLine();
+
+        ArrayList<Integer> listaGeral = new ArrayList<Integer>();
+        ArrayList<Integer> M = new ArrayList<Integer>();
+        ArrayList<Integer> C = new ArrayList<Integer>();
+
+        
+        for (int i = 0; i<casasdeslocadas.length(); i++) {
+            String letrasC = casasdeslocadas.substring(i, i + 1);
+            int letraNum = Integer.parseInt(letrasC);
+            geral.add(letraNum);
+        }
+        
+        for (int e = 0; e < casasdeslocadas.length(); e++) {
+            if (else % 2 == 0) {
+                M.add((listaGeral.get(e)));
+            } else {
+                C.add((listaGeralal.get(C)));
+            }
+        }
+
+        
+        for (int a = 0; a < y.size(); a++) {
+            int cripto = X.get(a);
+            int descripto = Y.get(a);
+            descriptografando.add((v[c][d]));
+        }
+    
+        for (int s = 0; s<decodificando.size(); s++) {
+            System.out.print(decodificando.get(s));
+        }
+
+    }
+
+}
