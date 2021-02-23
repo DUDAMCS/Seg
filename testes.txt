@@ -1,0 +1,69 @@
+﻿Testes para a primeira questão
+
+
+
+
+Entrada
+	Número de casas deslocadas
+	Saída
+	Casa
+	2
+	ecuc
+	Bola
+	6
+	hurg
+	Carro
+	3
+	fduur
+	Dinheiro
+	7
+	kpuolpyv
+	Pente
+	11
+	apyep
+	Mesa
+	14
+	asgo
+	Escola
+	19
+	xlvhet
+	Livraria
+	1
+	mjwsbsjb
+	Caderno
+	8
+	kilmzvw
+	Chave
+	4
+	glezi
+	
+
+
+
+Testes para a segunda questão
+
+
+
+
+Entrada
+	Saída
+	314511
+	Lua
+	32343111
+	Mola
+	12344411
+	Bota
+	1132344211
+	Amora
+	131143111334
+	Casaco
+	21111311
+	Faca
+	23344211
+	Hora
+	24344234
+	Jogo
+	35114434
+	Pato
+	3511454311
+	Pausa
