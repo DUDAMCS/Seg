@@ -1,0 +1,32 @@
+public static void preenchendoListaAlf(ArrayList<String> letrasAlf) {
+
+
+        listaalfabeto.add("a");
+        listaalfabeto.add("b");
+        listaalfabeto.add("c");
+        listaalfabeto.add("d");
+        listaalfabeto.add("e");
+        listaalfabeto.add("f");
+        listaalfabeto.add("g");
+        listaalfabeto.add("h");
+        listaalfabeto.add("i");
+        listaalfabeto.add("j");
+        listaalfabeto.add("k");
+        listaalfabeto.add("l");
+        listaalfabeto.add("m");
+        listaalfabeto.add("n");
+        listaalfabeto.add("o");
+        listaalfabeto.add("p");
+        listaalfabeto.add("q");
+        listaalfabeto.add("r");
+        listaalfabeto.add("s");
+        listaalfabeto.add("t");
+        listaalfabeto.add("u");
+        listaalfabeto.add("v");
+        listaalfabeto.add("w");
+        listaalfabeto.add("x");
+        listaalfabeto.add("y");
+        listaalfabeto.add("z");
+        
+    }
+}
